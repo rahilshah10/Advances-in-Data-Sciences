@@ -1,0 +1,10 @@
+client_id: 4TB2tT_k1p_EeRU6h9dsHWu2sSpErWXN
+client_secret: -PZHHkCXGaZZju-RQ4b34D6655qPuckz4ePk2l0N
+redirect_url: https://localhost:8000/api/v1/uber/oauth
+scopes:
+    - profile
+    - history
+    - places
+    - request
+    - request_receipt
+    - all_trips

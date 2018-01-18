@@ -1,0 +1,177 @@
+CompanySize,Profession,LastDelivery,NumDeliveries,Location,Year
+2,Pilot,3.61,,Earth,3001
+2,,3.67,3,Earth,
+2,Pilot,4,1,Earth,3001
+2,Pilot,3.19,4,Earth,3001
+2,Pizza Delivery Boy,2.93,4,,
+,Pizza Delivery Boy,3,2,,
+2,MomCorp CEO,2.98,1,Earth,3001
+2,Robot,3.08,2,Earth,3001
+2,MomCorp CEO,3.39,3,Earth,3001
+2,,,,,3001
+2,,,,,3001
+2,MomCorp CEO,3.22,1,Earth,3001
+2,Pizza Delivery Boy,4,1,Earth,3001
+2,Robot,3.08,2,Earth,3001
+2,Pizza Delivery Boy,4,1,Earth,3001
+2,Pizza Delivery Boy,3.44,3,Earth,3001
+,,,4,Earth,3001
+,,,3,Earth,3001
+2,Internet Gangstas,3.75,2,Earth,3001
+2,Internet Gangstas,3.81,1,Earth,3001
+2,Pilot,,3,Earth,3002
+2,Internet Gangstas,,2,Earth,3002
+2,Robot,,4,Earth,3001
+2,MomCorp CEO,,4,Earth,3001
+2,MomCorp CEO,,2,Earth,3002
+2,MomCorp CEO,,1,,3001
+2,Pilot,,1,,3001
+1,MomCorp CEO,,4,,3001
+1,MomCorp CEO,,2,,3001
+2,Robot,,1,,3001
+2,Internet Gangstas,,4,,3002
+2,Pilot,,3,,3001
+2,Internet Gangstas,,3,,3001
+1,Professor,4,,,
+2,Professor,3.14,,,
+2,Professor,3.05,,,
+2,Professor,3.25,,,
+2,Professor,2.9,,,
+1,Professor,3.13,2,,3001
+1,Professor,2.68,3,,3002
+2,Professor,2.42,2,,3002
+1,Professor,3.32,2,,3001
+1,Professor,3.15,2,,3001
+2,Professor,3.31,3,,3001
+2,Professor,2.94,2,Amphibios 9,3001
+1,Professor,3.45,3,Amphibios 9,3001
+1,Professor,3.46,2,Amphibios 9,3001
+2,Professor,,4,Amphibios 9,3001
+2,Professor,,4,Amphibios 9,3001
+2,Professor,,3,Amphibios 9,3001
+2,Professor,,3,Amphibios 9,3001
+2,Professor,,4,Amphibios 9,3001
+2,Professor,,4,Bogad,3001
+1,Professor,,2,Bogad,3001
+2,Professor,,3,Bogad,3001
+3,Accountant,,3,Bogad,3001
+3,Robot,,3,Bogad,3001
+3,MomCorp CEO,,3,Bogad,3001
+,,,,,3001
+,,,,,3001
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+3,Pilot,,1,Bogad,
+3,Astrophysics Student ,,1,Colgate 8,
+3,Astrophysics Student ,3.73,1,Colgate 9,
+3,Robot,4,3,Colgate 8,
+3,Astrophysics Student ,2.92,4,Colgate 8,
+3,Astrophysics Student ,3.39,4,Colgate 8,
+3,MomCorp CEO,4,2,Colgate 13,
+3,Robot,3.45,4,Colgate 8,
+3,Astrophysics Student ,4,3,Colgate 8,
+3,Astrophysics Student ,3.36,3,Colgate 8,
+3,Physician,4,3,Colgate 8,
+3,MomCorp CEO,3.12,1,Colgate 8,
+3,Robot,4,1,Colgate 8,
+2,Physician,2.9,4,Colgate 8,3004
+2,Pilot,3.07,2,Colgate 8,3004
+,,,,,3004
+,,,,,3004
+,,,,,3001
+,,,,,3001
+2,Captain,3.32,2,Colgate 8,3001
+2,Captain,3.48,2,Colgate 8,3001
+2,Pilot,3.61,3,Earth,3001
+2,Robot,3.61,3,Earth,3001
+2,Pilot,3.61,1,Earth,3001
+2,Pilot,3.61,4,Earth,3001
+2,Pizza Delivery Boy,3.61,4,Earth,3001
+2,Pizza Delivery Boy,3.61,2,Earth,3001
+2,Pizza Delivery Boy,3.61,1,Earth,3005
+2,Pizza Delivery Boy,3.61,2,Earth,3005
+2,Pizza Delivery Boy,3.61,3,Earth,3005
+2,,,,,3005
+2,,,,,3005
+2,,,,,3005
+2,,,,,3005
+2,Pizza Delivery Boy,3.08,2,Earth,3005
+2,Pizza Delivery Boy,4,1,Earth,3005
+2,Pizza Delivery Boy,3.44,3,Earth,3005
+2,Pizza Delivery Boy,3.44,4,Earth,3005
+2,Pizza Delivery Boy,3.44,3,Earth,3005
+2,Pizza Delivery Boy,3.44,2,Earth,3001
+2,Pizza Delivery Boy,3.44,1,Earth,3001
+2,Pilot,3.44,3,Earth,3002
+2,Internet Gangstas,3.44,2,Earth,3002
+2,Robot,3.44,4,Earth,3001
+2,MomCorp CEO,3.44,4,Earth,3001
+2,MomCorp CEO,3.44,2,Earth,3002
+2,MomCorp CEO,3.44,1,Earth,3001
+2,Pilot,3.44,1,Earth,3001
+1,MomCorp CEO,3.74,4,Earth,3001
+1,MomCorp CEO,3.22,2,Earth,3001
+2,Robot,,,,3001
+2,Internet Gangstas,,,,3002
+2,Pilot,,,,3001
+2,Internet Gangstas,,,,3001
+1,Professor,4,3,Amphibios 9,3001
+2,Professor,3.14,1,Amphibios 13,3001
+2,Professor,3.05,2,Amphibios 9,3002
+2,Professor,3.05,1,Amphibios 15,3001
+2,Professor,3.05,3,Amphibios 16,3001
+1,Professor,3.05,2,Amphibios 17,3001
+1,Professor,3.05,3,Amphibios 9,3002
+2,Professor,3.05,2,Amphibios 19,3002
+1,,,,,
+1,,,,,
+2,,,,,
+2,,,,,
+1,Professor,3.05,3,Amphibios 9,3001
+1,Professor,3.05,2,Amphibios 9,3001
+2,Professor,2.97,4,Amphibios 9,3001
+2,Professor,2.48,4,Amphibios 9,3001
+2,Robot,3.35,3,Amphibios 9,3001
+2,Pilot,3.86,3,Amphibios 9,3001
+2,MomCorp CEO,3.13,,,3001
+2,Accountant,3.37,,,3001
+1,Robot,3.27,,,3001
+2,Accountant,3.34,,,3001
+3,Accountant,4,,,3001
+3,Robot,3.19,,,3001
+3,MomCorp CEO,2.94,,,3001
+3,Accountant,3.65,,,3001
+3,Accountant,2.82,,,3001
+3,Accountant,2.82,,,3001
+3,Pilot,2.82,,,3001
+3,Accountant,2.82,,,3001
+3,Accountant,2.82,,,3001
+3,Accountant,2.82,,,3001
+3,Robot,2.82,,,3003
+3,Astrophysics Student ,2.82,4,Bogad,3003
+3,Pilot,2.82,1,Bogad,3003
+3,Astrophysics Student ,2.82,1,Bogad,3003
+,,,,,3003
+,,,,,3003
+,,,,,3003
+3,Astrophysics Student ,2.82,4,Bogad,3003
+3,MomCorp CEO,2.82,2,Bogad,3003
+3,Robot,2.82,4,Bogad,3003
+3,,,,,
+3,Astrophysics Student ,2.82,3,Colgate 8,3001
+3,Physician,4,3,Colgate 8,3001
+3,MomCorp CEO,4,1,Colgate 8,3001
+3,Robot,4,1,Colgate 8,3004
+2,Physician,4,4,Colgate 8,3004
+2,Pilot,4,2,Colgate 8,3004
+2,Captain,4,2,Colgate 8,3004
+2,Captain,4,4,Colgate 8,3004
+1,Captain,3.6,3,Colgate 8,3001
+2,Captain,2.98,2,Colgate 8,3001
+2,Captain,3.32,2,Colgate 8,3001
+2,Captain,3.48,2,Colgate 8,3001
